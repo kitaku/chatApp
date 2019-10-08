@@ -67,7 +67,7 @@ export default {
   data: function(){
     return {
       message : 'Home',
-      log_msg : '',
+      log_msg : 'login',
       user_name : '',
       logined: true,
       msg:'',
